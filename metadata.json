@@ -1,0 +1,6 @@
+{
+  "name": "CleanRead",
+  "description": "Ad-free direct Reader Mode for any news article link with one-tap copy, tracking-link cleaner, and offline reading history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

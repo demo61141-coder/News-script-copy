@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CleanRead</string>
+    <string name="share_to_reader">Open in CleanRead</string>
+</resources>
